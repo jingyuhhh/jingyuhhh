@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volcano621&langs_count=8&layout=donut)](https://github.com/volcano621/github-readme-stats)
+</div>
 
-<a href="https://github.com/volcano621/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=volcano621" />
-</a>
-<a href="https://github.com/volcano621/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=volcano621&layout=donut&langs_count=8&card_width=320" />
-</a>
+<div align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=volcano621)](https://github.com/volcano621/github-readme-stats)
+</div>
+
