@@ -15,11 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volcano621&langs_count=8&layout=donut)](https://github.com/volcano621/github-readme-stats)
-</div>
+<p align="center">
+  <a href="https://www.volcano621.fun/">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=volcano621&count_private=true&locale=cn&hide_border=true" />
+  </a>
+</p>
 
-<div align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=volcano621)](https://github.com/volcano621/github-readme-stats)
-</div>
+<p align="center">
+  <a href="">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=volcano621&layout=donut&lang_count=8" />
+  </a>
+</p>
+
 
