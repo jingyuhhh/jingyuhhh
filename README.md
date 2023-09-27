@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 - 🔭 I’m currently an undergraduate@HUST
 - 😄 98% extrovert
@@ -12,9 +12,11 @@
 - 💬 Ask me about ...
 -->
 
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=c,py,js,ts,react,vue,html,css,sass,nodejs,mysql)](https://skillicons.dev)
 
 
-**General:**
+## General:
 
 <p align="center">
   <a href="https://www.volcano621.fun/">
@@ -28,7 +30,7 @@
   </a>
 </p>
 
-**Visitors:**
+## Visitors:
 
 <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/volcano621/volcano621.svg" />
