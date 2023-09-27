@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://www.volcano621.fun/">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=volcano621&count_private=true&locale=cn&hide_border=true" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=volcano621&count_private=true&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=volcano621&layout=donut&lang_count=8" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=volcano621&layout=donut&langs_count=8&hide_border=true" />
   </a>
 </p>
 
