@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**General:**
 
 <p align="center">
   <a href="https://www.volcano621.fun/">
@@ -25,6 +26,12 @@ Here are some ideas to get you started:
   <a href="">
     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=volcano621&layout=donut&langs_count=8&hide_border=true" />
   </a>
+</p>
+
+**Visitors:**
+
+<p align="center">
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/volcano621/volcano621.svg" />
 </p>
 
 
