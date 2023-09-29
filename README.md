@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=volcano621&layout=donut&langs_count=8&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=volcano621&layout=donut&langs_count=8&hide_border=true&size_weight=0.3&count_weight=0.7" />
   </a>
 </p>
 
