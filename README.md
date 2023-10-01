@@ -20,7 +20,13 @@
   <img src="https://img.shields.io/badge/-JavaScript-efc900?style=flat-square" alt="JS" />
   <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/-React-61dafb?style=flat-square" alt="React" /></a>
   <a href="https://vuejs.org/" target="_blank"> <img src="https://img.shields.io/badge/-Vue-41b883?style=flat-square" alt="Vue" /></a>
-  <a><img src="https://img.shields.io/badge/d3-yellow?style=flat-square" alt="D3"></a>
+  <a><img src="https://img.shields.io/badge/D3-yellow?style=flat-square" alt="D3"></a>
+  <a><img src="https://img.shields.io/badge/HTML-red?style=flat-square" alt="html"></a>
+  <a><img src="https://img.shields.io/badge/CSS-yellow?style=flat-square" alt="css"></a>
+  <a><img src="https://img.shields.io/badge/Sass-pink?style=flat-square" alt="sass"></a>
+  <a><img src="https://img.shields.io/badge/Nodejs-yellow?style=flat-square" alt="nodejs"></a>
+  <a><img src="https://img.shields.io/badge/MySQL-green?style=flat-square" alt="mysql"></a>
+  <a><img src="https://img.shields.io/badge/flask-black?style=flat-square" alt="flask"></a>
 </p>
 
 
