@@ -13,7 +13,11 @@
 -->
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=c,py,js,ts,react,vue,html,css,sass,nodejs,flask,mysql,d3)](https://skillicons.dev)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-plain.svg">
+  
+</p>
 
 
 ## General:
