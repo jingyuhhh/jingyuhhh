@@ -12,7 +12,7 @@
 - 💬 Ask me about ...
 -->
 
-## Tech Stack
+### Tech Stack
 <p>
   <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/-Python-224969?style=flat-square" alt="Python" /></a>
   <img src="https://img.shields.io/badge/-C%2B%2B-6093c8?style=flat-square" alt="cpp" />
@@ -20,11 +20,11 @@
   <img src="https://img.shields.io/badge/-JavaScript-efc900?style=flat-square" alt="JS" />
   <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/-React-61dafb?style=flat-square" alt="React" /></a>
   <a href="https://vuejs.org/" target="_blank"> <img src="https://img.shields.io/badge/-Vue-41b883?style=flat-square" alt="Vue" /></a>
-  
+  <a><img src="https://img.shields.io/badge/d3-yellow" alt="D3"></a>
 </p>
 
 
-## General:
+### General:
 
 <p align="center">
   <a href="https://www.volcano621.fun/">
@@ -38,7 +38,7 @@
   </a>
 </p>
 
-## Visitors:
+### Visitors:
 
 <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/volcano621/volcano621.svg" />
