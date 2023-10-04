@@ -25,8 +25,9 @@
   <a><img src="https://img.shields.io/badge/CSS-yellow?style=flat-square" alt="css"></a>
   <a><img src="https://img.shields.io/badge/Sass-cc6699?style=flat-square" alt="sass"></a>
   <a><img src="https://img.shields.io/badge/Nodejs-5daf47?style=flat-square" alt="nodejs"></a>
+  <a><img src="https://img.shields.io/badge/Koa-white?style=flat-square" alt="koa"></a>
   <a><img src="https://img.shields.io/badge/MySQL-00758f?style=flat-square" alt="mysql"></a>
-  <a><img src="https://img.shields.io/badge/flask-93d3d9?style=flat-square" alt="flask"></a>
+  <a><img src="https://img.shields.io/badge/Flask-93d3d9?style=flat-square" alt="flask"></a>
   <a><img src="https://img.shields.io/badge/Jupyter-f37726?style=flat-square" alt="jupyter"></a>
 </p>
 
