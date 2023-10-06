@@ -46,6 +46,9 @@
   </a>
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Visitors:
 
 <p align="center">
