@@ -47,6 +47,15 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```txt
+Python           38 mins         █████████████████░░░░░░░░   67.50 %
+Markdown         8 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.48 %
+Text             4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+JSON             1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+GitIgnore file   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+```
+
 <!--END_SECTION:waka-->
 
 ### Visitors:
