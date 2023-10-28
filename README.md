@@ -49,11 +49,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python    12 mins         █████████████▓░░░░░░░░░░░   54.43 %
-Vue.js    10 mins         ██████████▓░░░░░░░░░░░░░░   43.15 %
-CSV/TSV   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-Jupyter   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Ezhil     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
