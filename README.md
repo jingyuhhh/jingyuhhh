@@ -6,6 +6,8 @@
 - ⚡ Fun fact:
   - once an anime lover, now more of a podcast and book lover.
   - love thinking and writing.
+ 
+  
 <--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
