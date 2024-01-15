@@ -34,7 +34,7 @@
   <a><img src="https://img.shields.io/badge/Jupyter-f37726?style=flat-square" alt="jupyter"></a>
 </p>
 
-
+<!--
 ### General:
 
 <p align="center">
@@ -56,5 +56,7 @@
 <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/volcano621/volcano621.svg" />
 </p>
+
+-->
 
 
