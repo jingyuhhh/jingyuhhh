@@ -1,7 +1,6 @@
 # Hi there 👋
 
 - 🔭 I’m currently an undergraduate@HUST
-- 😄 98% extrovert
 - 📫 How to reach me: tangjingyu0621@gmail.com
 - ⚡ Fun fact:
   - once an anime lover, now more of a podcast and book lover.
@@ -9,6 +8,7 @@
  
   
 <!--
+- 😄 98% extrovert
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
