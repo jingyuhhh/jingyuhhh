@@ -1,10 +1,6 @@
 # Hi there 👋
 
-- 🔭 I’m currently an undergraduate@HUST
-- 📫 How to reach me: tangjingyu0621@gmail.com
-- ⚡ Fun fact:
-  - once an anime lover, now more of a podcast and book lover.
-  - love thinking and writing.
+
  
   
 <!--
@@ -14,7 +10,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-
+<!--
 ### Tech Stack
 <p>
   <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/-Python-224969?style=flat-square" alt="Python" /></a>
@@ -33,6 +29,7 @@
   <a><img src="https://img.shields.io/badge/Flask-93d3d9?style=flat-square" alt="flask"></a>
   <a><img src="https://img.shields.io/badge/Jupyter-f37726?style=flat-square" alt="jupyter"></a>
 </p>
+-->
 
 <!--
 ### General:
